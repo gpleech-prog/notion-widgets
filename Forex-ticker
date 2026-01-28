@@ -6,19 +6,19 @@
   {
   "symbols": [
     {
-      "proName": "FX_IDC:EURUSD",
-      "title": "EUR to USD"
+      "proName": "FOREXCOM:GBPUSD",
+      "title": ""
     },
     {
-      "proName": "FX:GBPUSD",
-      "title": "GBP to USD"
+      "proName": "FOREXCOM:EURUSD",
+      "title": ""
     }
   ],
   "colorTheme": "dark",
   "locale": "en",
   "largeChartUrl": "",
   "isTransparent": false,
-  "showSymbolLogo": true
+  "showSymbolLogo": false
 }
   </script>
 </div>
